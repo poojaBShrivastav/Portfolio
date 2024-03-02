@@ -184,7 +184,7 @@ header {
     background-image: url("./images//DSC_3921.JPG");
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    border:solid red 1px;
+    border: solid #ffbd39 4px;
 }
 .about_cont1{
     padding: 30px;
